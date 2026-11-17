@@ -1,0 +1,6 @@
+services:
+  check:
+    build: .
+    volumes:
+      - .:/app
+    command: python check.py

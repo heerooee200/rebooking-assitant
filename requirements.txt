@@ -1,0 +1,9 @@
+langgraph==1.0.10
+langgraph-checkpoint==4.3.1
+langgraph-prebuilt==1.0.13
+langgraph-sdk==0.3.15
+langchain-core==1.7.6
+langsmith==0.14.17
+pydantic==2.14.3
+pydantic_core==2.50.4
+typing_extensions==4.16.0
